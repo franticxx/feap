@@ -1,0 +1,12 @@
+[package]
+name = "feap"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kshine <775590074@qq.com>"]
+license = "MIT OR Apache-2.0"
+description = "基于feapder爬虫框架的rust版本"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
